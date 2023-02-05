@@ -1,2 +1,2 @@
 # Papa
-Virtual Assistant for Mac
+My own personal assisant, used to learn python 
